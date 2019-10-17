@@ -1,6 +1,8 @@
 body {
 	background-color: yellowgreen;
+	color: red;
 }
 p {
 	font-size: 200px;
+	line-height: 40px;
 }
